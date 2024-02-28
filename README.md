@@ -36,7 +36,7 @@
         <p>Hello, I'm a web developer.</p>
         <p>State Transition Testing is a black box testing technique in which changes made in input conditions cause state changes or output changes in the Application under Test. State transition testing helps to analyze behaviour of an application for different input conditions.</p>
         
-        <p> State-Transition testing is the one of the black box testing & desing techniques which can be used to derive test cases (or) test for the application functions which go through several states 
+   <p> State-Transition testing is the one of the black box testing & desing techniques which can be used to derive test cases (or) test for the application functions which go through several states 
         </p>
         <h2> APPLICATION FUNCTIONALITIES &<br>
             SEVERAL STATES </h2>
@@ -65,7 +65,7 @@
 
 
 
-        <p>Identify States: Begin by identifying all possible states the system can be in. These states represent different conditions or situations that the system may encounter during its operation 
+  <p>Identify States: Begin by identifying all possible states the system can be in. These states represent different conditions or situations that the system may encounter during its operation 
 <br> 
 Identify Transitions: Identify the events or inputs that cause the system to transition from one state to another. These transitions could be triggered by user actions, system events, or other external stimul<br>
 Create a State Transition Diagram: A state transition diagram visually represents the states, transitions, and conditions triggering those transitions. It provides a clear overview of the system's behavior.<br>
